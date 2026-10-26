@@ -1,0 +1,293 @@
+AI DOCUMENT COMPARISON REPORT
+================================
+Generated: 2026-10-20 00:58:02
+
+DOCUMENT A: IBMCEP CEJAVA1IN Certificate _ Ganpat University.pdf
+Word count: []
+
+DOCUMENT B: Practical 11.pdf
+Word count: []
+
+Text similarity: 16.84%
+Shared vocabulary: 7.41%
+
+DOCUMENT A SUMMARY
+------------------------
+Document A summary:
+[Page 1] Kadimi Lakshmi mounica successfully completed and received a passing grade in Java Fundamentals A course on guni.skillsnetwork.site Powered by IBM Developer Skills Network. Issued by Ganpat University Jagadisha Bhat Country Manager - Software Services IBM India Pvt Ltd Dr. Mahendra Sharma Pro-chancellor & Director General Ganpat University This is to certify that (CEJAVA1IN, provided by IBMCEP) 10/12/26, 10:11 PM IBMCEP CEJAVA1IN Certificate | Ganpat University https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5 1/2 [Page 2] October 12, 2026 Authenticity of this certificate can be validated by going to: https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5 10/12/26, 10:11 PM IBMCEP CEJAVA1IN Certificate | Ganpat University https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5 2/2
+
+DOCUMENT B SUMMARY
+------------------------
+Document B summary:
+[Page 1] NAME:KADIMI LAKSHMI MOUNICA Enrollment no:25162201023 BATCH:31(AIML) Institute of computer technology Ganpat university B.Tech. CSE (CBA/BDA/CS/CSE) (2CSE301) DATABASE MANAGEMENT SYSTEM PRACTICAL 11 (Stored Function) 1. Create a function findmax() which returns max number from given two number. [Page 3] 2. Create a function findgrade() Calculate grade based on marks and returns grade. Marks Grade Marks>=90 A+ Marks<90 and Marks>=80 A Marks <80 and Marks >=70 B+ Marks <70 and Marks >=60 B Marks <60 and Marks >=50 C+ Marks<50 and Marks >=40 C Marks<40 F [Page 5] 3. Create function which returns Percentage of student from student table based on rollno. [Page 7] 4. Create function which returns number of student from student table based on branch. [Page 9] 5. Create a function that returns yesterday's date. [Page 11] 6. Create a function that returns tommorrow's date. [Page 13] 7....
+
+COMPARISON
+------------------------
+Text similarity: 16.84%.
+Shared unique words: 12.
+Words unique to Document A: 61.
+Words unique to Document B: 89.
+Check the line differences for changed dates, names, numbers, and other details.
+
+AI analysis failed. Local comparison is still available. Check your API key and network, then retry. Details: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+
+WORDS SHARED BY BOTH
+1], [page, a, and, ganpat, grade, lakshmi, mounica, of, on, that, university
+
+WORDS ONLY IN DOCUMENT A
+&, (cejava1in,, -, 1/2, 10/12/26,, 10:11, 12,, 2/2, 2026, 2], authenticity, be, bhat, by, can, cejava1in, certificate, certify, completed, country, course, developer, director, dr., fundamentals, general, going, guni.skillsnetwork.site, https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5, ibm, ibmcep, ibmcep), in, india, is, issued, jagadisha, java, kadimi, ltd, mahendra, manager, network., october, passing, pm, powered, pro-chancellor, provided, pvt, received, services, sharma, skills, software, successfully, this, to, to:, validated, |
+
+WORDS ONLY IN DOCUMENT B
+(2cse301), (cba/bda/cs/cse), (stored, ., 1., 11, 11], 13], 15], 17], 2., 3., 3], 4., 5., 5], 6., 7., 7], 8., 9., 9], <60, <70, <80, >=40, >=50, >=60, >=70, a+, age, age., b, b+, b.tech., based, batch:31(aiml), between, birth, birthdatereturns, branch., c, c+, calculate, computer, create, cse, database, date, date., days, enrollment, f, findgrade(), findmax(), from, function, function), given, grade., institute, it, it., management, marks, marks<40, marks<50, marks<90, marks>=80, marks>=90, max, name:kadimi, no:25162201023, number, number., percentage, practical, returns, rollno., student, system, table, technology, today, tommorrow's, two, which, yesterday's, your
+
+LINE-BY-LINE DIFFERENCES
+--- Document A
++++ Document B
+@@ -1,25 +1,318 @@
+ [Page 1]
+-Kadimi Lakshmi mounica
+-successfully completed and received a passing grade in
+-Java Fundamentals
+-A course on guni.skillsnetwork.site
+-Powered by IBM Developer Skills Network.
+-Issued by
+-Ganpat University
+-Jagadisha Bhat
+-Country Manager - Software Services
+-IBM India Pvt Ltd
+-Dr. Mahendra Sharma
+-Pro-chancellor & Director General
+-Ganpat University
+-This is to certify that
+-(CEJAVA1IN, provided by IBMCEP)
+-10/12/26, 10:11 PM IBMCEP CEJAVA1IN Certificate | Ganpat University
+-https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5 1/2
+-
+-[Page 2]
+-October 12, 2026
+-Authenticity of this certificate can be validated by going to:
+-https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5
+-10/12/26, 10:11 PM IBMCEP CEJAVA1IN Certificate | Ganpat University
+-https://courses.guni.skillsnetwork.site/certificates/1e847e6b45ef495886d2edc33c3f82f5 2/2
++NAME:KADIMI  LAKSHMI  MOUNICA  Enrollment  no:25162201023  BATCH:31(AIML)     Institute  of  computer  technology   
++Ganpat  university   
++B.Tech.  CSE  (CBA/BDA/CS/CSE)   
++(2CSE301)  DATABASE  MANAGEMENT  SYSTEM   
++PRACTICAL  11  (Stored  Function)   
++1.
++ 
++Create
++ 
++a
++ 
++function
++ 
++findmax()
++ 
++which
++ 
++returns
++ 
++max
++ 
++number
++ 
++from
++ 
++given
++ 
++two
++ 
++number.
++
++[Page 3]
++2.
++ 
++Create
++ 
++a
++ 
++function
++ 
++findgrade()
++ 
++Calculate
++ 
++grade
++ 
++based
++ 
++on
++ 
++marks
++ 
++and
++ 
++returns
++ 
++grade.
++ 
++ 
++Marks
++ 
++ 
++Grade
++ 
++Marks>=90
++ 
++ 
++A+
++ 
++Marks<90
++ 
++and
++ 
++Marks>=80
++ 
++ 
++A
++ 
++Marks
++ 
++<80
++ 
++and
++ 
++Marks
++ 
++>=70
++ 
++ 
++B+
++ 
++Marks
++ 
++<70
++ 
++and
++ 
++Marks
++ 
++>=60
++ 
++ 
++B
++ 
++Marks
++ 
++<60
++ 
++and
++ 
++Marks
++ 
++>=50
++ 
++ 
++C+
++ 
++Marks<50
++ 
++and
++ 
++Marks
++ 
++>=40
++ 
++ 
++C
++ 
++Marks<40
++ 
++ 
++F
++
++[Page 5]
++3.
++ 
++Create
++ 
++function
++ 
++which
++ 
++returns
++ 
++Percentage
++ 
++of
++ 
++student
++ 
++from
++ 
++student
++ 
++table
++ 
++based
++ 
++on
++ 
++rollno.
++
++[Page 7]
++4.
++ 
++Create
++ 
++function
++ 
++which
++ 
++returns
++ 
++number
++ 
++of
++ 
++student
++ 
++from
++ 
++student
++ 
++table
++ 
++based
++ 
++on
++ 
++branch.
++
++[Page 9]
++5.
++ 
++Create
++ 
++a
++ 
++function
++ 
++that
++ 
++returns
++ 
++yesterday's
++ 
++date.
++
++[Page 11]
++6.
++ 
++Create
++ 
++a
++ 
++function
++ 
++that
++ 
++returns
++ 
++tommorrow's
